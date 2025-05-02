@@ -108,3 +108,4 @@ wsproto==1.2.0
 yfinance==0.2.54
 youtube-transcript-api==0.6.3
 zipp==3.21.0
+gunicorn
